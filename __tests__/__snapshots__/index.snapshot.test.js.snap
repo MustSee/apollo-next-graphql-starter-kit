@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Homepage component shallow renderes its content correctly 1`] = `
+<LayoutProvider>
+  <p>
+    High performance web frameswork
+  </p>
+  <Apollo(ApolloComponent) />
+</LayoutProvider>
+`;
