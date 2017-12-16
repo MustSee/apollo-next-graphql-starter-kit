@@ -1,5 +1,11 @@
 # Starter Kit
 
+High performance starter kit based on next.js, react 16, apollo 2.0 and various of examples from next.js repository
+
+## 
+
+please move .env into your gitignore when developing locally
+
 ## .env configuration
 place it to your root folder
 
